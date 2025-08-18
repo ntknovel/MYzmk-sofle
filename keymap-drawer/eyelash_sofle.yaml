@@ -57,15 +57,15 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-option$$
-  - BTMSRGB
+  - VFM
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - BTRGB
   - $$mdi:keyboard-space$$
-  - BTMSRGB
+  - VFM
   - $$mdi:apple-keyboard-option$$
   - RIGHT GUI
   - $$mdi:apple-keyboard-control$$
-  BTMSRGB:
+  VFM:
   - $$mdi:keyboard-esc$$
   - F1
   - F2
