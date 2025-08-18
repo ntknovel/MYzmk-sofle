@@ -62,7 +62,7 @@
 &trans             &trans  &trans  &trans  &trans  &kp LEFT_BRACKET    &trans           &kp RIGHT_BRACKET  &trans    &mkp MB2  &mkp MB3   &mkp MB1
             >;
 
-            display-name = "BTMSRGB";
+            display-name = "VFM";
             sensor-bindings = <&scroll_encoder>;
         };
 
@@ -76,6 +76,7 @@
             >;
 
             sensor-bindings = <&inc_dec_kp K_VOL_UP K_VOLUME_DOWN>;
+            label = "BTRGB";
         };
     };
 };
