@@ -120,7 +120,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - '&mkp MB2'
-  - '&mkp MB3'
+  - $$mdi:mouse-scroll-wheel$$
   - '&mkp MB1'
   - {type: held}
   - {t: '[', s: '{'}
