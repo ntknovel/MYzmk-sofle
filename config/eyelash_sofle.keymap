@@ -55,11 +55,11 @@
 
         VOFM {
             bindings = <
-&kp ESCAPE         &kp F1    &kp F2    &kp F3    &kp F4  &kp F5              &mmv MOVE_UP     &kp F6             &kp F7    &kp F8    &kp F9     &kp F10        &kp F11
-&kp C_VOLUME_UP    &trans    &trans    &trans    &trans  &trans              &mmv MOVE_DOWN   &trans             &trans    &kp UP    &trans     &trans         &kp F12
-&kp C_VOLUME_DOWN  &trans    &trans    &trans    &trans  &trans              &mmv MOVE_LEFT   &trans             &kp LEFT  &kp DOWN  &kp RIGHT  &trans         &trans
-&trans             &trans    &trans    &trans    &trans  &trans              &mmv MOVE_RIGHT  &trans             &trans    &trans    &trans     &kp BACKSLASH  &trans
-&trans             &mkp MB2  &mkp MB3  &mkp MB1  &trans  &kp LEFT_BRACKET    &trans           &kp RIGHT_BRACKET  &trans    &mkp MB2  &mkp MB3   &mkp MB1
+&kp ESCAPE         &kp F1    &kp F2     &kp F3    &kp F4  &kp F5              &mmv MOVE_UP     &kp F6             &kp F7    &kp F8    &kp F9     &kp F10        &kp F11
+&kp C_VOLUME_UP    &trans    &trans     &trans    &trans  &trans              &mmv MOVE_DOWN   &trans             &trans    &kp UP    &trans     &trans         &kp F12
+&kp C_VOLUME_DOWN  &trans    &trans     &trans    &trans  &trans              &mmv MOVE_LEFT   &trans             &kp LEFT  &kp DOWN  &kp RIGHT  &trans         &trans
+&trans             &trans    &trans     &trans    &trans  &trans              &mmv MOVE_RIGHT  &trans             &trans    &trans    &trans     &kp BACKSLASH  &trans
+&trans             &mkp MB2  &mkp MCLK  &mkp MB1  &trans  &kp LEFT_BRACKET    &trans           &kp RIGHT_BRACKET  &trans    &mkp MB2  &mkp MB3   &mkp MB1
             >;
 
             display-name = "VFM";
